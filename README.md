@@ -1,5 +1,7 @@
 # Business Dashboard Analysis
 
+![Business Dashboard Thumbnail](images/project_thumbnail.png)
+
 ## Project Overview
 
 This project simulates a business analytics workflow using Python, Pandas, NumPy, Matplotlib, and Seaborn.
